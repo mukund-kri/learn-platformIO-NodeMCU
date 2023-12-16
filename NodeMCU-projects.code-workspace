@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "blinking-led",
+			"path": "blinking-led"
+		},
+		{
+			"name": "running-lights",
+			"path": "running-lights"
+		},
+		{
+			"name": "button-led",
+			"path": "button-led"
+		}
+	],
+	"settings": {}
+}
